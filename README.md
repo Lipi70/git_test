@@ -1,0 +1,1 @@
+This is Lipi’s first git project!
